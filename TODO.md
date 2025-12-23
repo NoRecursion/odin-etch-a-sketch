@@ -1,4 +1,4 @@
-
+set scrollbar for grid size
 add color on mouse down mode
 
 Nov 25
